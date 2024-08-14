@@ -1,5 +1,14 @@
 # Atividade - Aula 2 - Profilling - Estruturas e Complexidade de Algoritmos
 
+Configurando o ambiente:
+
+```bash
+C:\>python -m venv env-3.11
+C:\>env-3.11\Scripts\activate
+(env-3.11) C:\>python -m pip install --upgrade pip
+(env-3.11) C:\>pip install -r requirements.txt
+```
+
 Gerando os arquivos:
 
 ```bash
